@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a third-year computer science student at the University of Waterloo
+I'm a third-year computer science student at the University of Waterloo with a passion for computer science and an entreprenurial spirit
 
 Previously I've worked as a Software Developer intern at:
 
@@ -42,4 +42,4 @@ Previously I've worked as a Software Developer intern at:
 <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</div>"/>
+</div>
