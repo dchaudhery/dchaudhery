@@ -18,8 +18,10 @@ I'm a third-year computer science student at the University of Waterloo
 
 Previously I've worked as a Software Developer intern at:
 
-  <img width="56" alt="Screen Shot 2022-05-01 at 6 45 09 PM" src="https://user-images.githubusercontent.com/97553832/166167588-42405430-dc3b-43a8-93a7-61dd931e1ce3.png">
+  <img width="66" alt="Screen Shot 2022-05-01 at 6 45 09 PM" src="https://user-images.githubusercontent.com/97553832/166167588-42405430-dc3b-43a8-93a7-61dd931e1ce3.png">                  
+  <img width="106" alt="Screen Shot 2022-05-01 at 6 48 04 PM" src="https://user-images.githubusercontent.com/97553832/166167669-83b4044f-e410-4775-af93-0ba1b9b37946.png">
 
+<img width="79" alt="Screen Shot 2022-05-01 at 6 49 15 PM" src="https://user-images.githubusercontent.com/97553832/166167706-0e729832-e9ce-443e-83cf-7fcf332162a0.png">
 
 
 ### Tools and Technologies
@@ -39,4 +41,5 @@ Previously I've worked as a Software Developer intern at:
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
-</div>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>"/>
