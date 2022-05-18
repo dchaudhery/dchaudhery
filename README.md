@@ -14,14 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a third-year computer science student at the University of Waterloo with a passion for computer science and an entreprenurial spirit
 
-Previously I've worked as a Software Developer intern at:
+📚 I'm a third-year computer science student specializing in Human Computer Interaction (HCI)
+
+💻 My main languages are C++, C, Python, and Javascript
+
+⚡ I'm currently in my 3B term, taking HCI and Android Development
+
+💬 I love hiking and I'm learning to play the guitar
+
+<!-- Previously I've worked as a Software Developer intern at:
 
   <img width="66" alt="Screen Shot 2022-05-01 at 6 45 09 PM" src="https://user-images.githubusercontent.com/97553832/166167588-42405430-dc3b-43a8-93a7-61dd931e1ce3.png">                  
   <img width="106" alt="Screen Shot 2022-05-01 at 6 48 04 PM" src="https://user-images.githubusercontent.com/97553832/166167669-83b4044f-e410-4775-af93-0ba1b9b37946.png">
 
-<img width="79" alt="Screen Shot 2022-05-01 at 6 49 15 PM" src="https://user-images.githubusercontent.com/97553832/166167706-0e729832-e9ce-443e-83cf-7fcf332162a0.png">
+<img width="79" alt="Screen Shot 2022-05-01 at 6 49 15 PM" src="https://user-images.githubusercontent.com/97553832/166167706-0e729832-e9ce-443e-83cf-7fcf332162a0.png"> -->
 
 
 ### Tools and Technologies
