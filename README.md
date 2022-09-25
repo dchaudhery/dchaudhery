@@ -1,4 +1,4 @@
-### Hi there, I'm Dea 👋
+### Welcome to my Github! 👋
 
 <!--
 **dea14/dea14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📚 I'm a third-year computer science student specializing in Human Computer Interaction (HCI)
+📚 I'm a fourth-year computer science student specializing in Human Computer Interaction (HCI)
 
-💻 My main languages are C++, C, Python, and Javascript
+💻 My main languages are Python, C++, and Javascript
 
-⚡ I'm currently in my 3B term, taking HCI and Android Development
-
-💬 I love hiking and I'm learning to play the guitar
+💬 I love playing basketball and I'm learning to play the guitar
 
 <!-- Previously I've worked as a Software Developer intern at:
 
