@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 💡 I’m currently seeking 2023 internships and 2024 new grad roles
 
-💻 My main languages are Python, C++, JavaScript, and TypeScript
+💻 My main languages are Python, Java, C++, JavaScript, and TypeScript
 
 ⚡  I love hiking and playing basketball, and I'm learning to play the guitar!
 
